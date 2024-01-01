@@ -1,6 +1,6 @@
 # Backroads App
 
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Working Application - Deployed]((https://react-backroad-apps.netlify.app/))
 
 - backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
@@ -8,13 +8,7 @@
   - run 'npm install'
   - once the dependencies are installed run 'npm start'
 
-#### React Course
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 #### Create New React App
 
@@ -402,7 +396,10 @@ package.json
     "eject": "react-scripts eject"
   },
 ```
-#   b a c k r o a d s - a p p  
- #   b a c k r o a d s - a p p  
- #   b a c k r o a d s - a p p  
+#   b a c k r o a d s - a p p 
+ 
+ #   b a c k r o a d s - a p p 
+ 
+ #   b a c k r o a d s - a p p 
+ 
  
